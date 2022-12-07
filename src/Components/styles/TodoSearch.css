@@ -1,0 +1,26 @@
+.TodoSearch{
+ text-align: center;
+ font-weight: 400;
+ font-size: 24px;
+ margin: 0 auto;
+ width: 50%;
+ height: 2rem;
+ border-radius: 10px ;
+ border: none;
+
+}
+
+.TodoSearch:focus{
+    border: none;
+    outline: none;
+    border: 1px solid #4A2040;
+
+}
+
+.TodoSearch-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}

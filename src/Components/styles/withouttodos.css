@@ -1,0 +1,23 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h2{
+    font-size: 40px;
+
+}
+
+.imgCont{
+    display: flex;
+    justify-content: center;
+
+}
+
+.withoutTodoImg{
+    width: 50%;
+
+}
